@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vBkSgWxjLG1KKsXWQHhdLKB/3whesXhhY00Vgtwrku0=",
+  "Source": "AWSCodePipelineDemo",
+  "BasePath": "_content/AWSCodePipelineDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
